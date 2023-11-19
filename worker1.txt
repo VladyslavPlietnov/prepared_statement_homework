@@ -1,0 +1,61 @@
+{
+  "id": "2",
+  "birthday": "1901-12-07",
+  "name": "Telepusik",
+  "level": "Senior",
+  "salary": 50000
+};{
+  "id": "3",
+  "birthday": "1902-12-07",
+  "name": "Luntik",
+  "level": "Senior",
+  "salary": 50000
+};{
+  "id": "4",
+  "birthday": "1902-12-07",
+  "name": "Luntik",
+  "level": "Trainee",
+  "salary": 101
+};{
+  "id": "5",
+  "birthday": "1902-12-07",
+  "name": "Li",
+  "level": "Trainee",
+  "salary": 101
+};{
+  "id": "6",
+  "birthday": "1902-09-07",
+  "name": "Mickey Mouse",
+  "level": "Junior",
+  "salary": 200
+};{
+  "id": "7",
+  "birthday": "1999-11-11",
+  "name": "SpongeBob Square Pants",
+  "level": "Junior",
+  "salary": 207
+};{
+  "id": "8",
+  "birthday": "1989-07-23",
+  "name": "Homer J. Simpson",
+  "level": "Junior",
+  "salary": 193
+};{
+  "id": "9",
+  "birthday": "1934-03-27",
+  "name": "Donald Duck",
+  "level": "Middle",
+  "salary": 37500
+};{
+  "id": "10",
+  "birthday": "1996-10-17",
+  "name": "Pikachu",
+  "level": "Middle",
+  "salary": 42100
+};{
+  "id": "11",
+  "birthday": "1997-06-18",
+  "name": "Eric Cartman ",
+  "level": "Senior",
+  "salary": 100000
+};

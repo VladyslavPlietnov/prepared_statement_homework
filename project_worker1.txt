@@ -1,0 +1,85 @@
+{
+  "projectId": 4,
+  "workerId": 2
+};{
+  "projectId": 5,
+  "workerId": 2
+};{
+  "projectId": 6,
+  "workerId": 2
+};{
+  "projectId": 8,
+  "workerId": 2
+};{
+  "projectId": 10,
+  "workerId": 2
+};{
+  "projectId": 1,
+  "workerId": 3
+};{
+  "projectId": 2,
+  "workerId": 3
+};{
+  "projectId": 6,
+  "workerId": 3
+};{
+  "projectId": 9,
+  "workerId": 3
+};{
+  "projectId": 1,
+  "workerId": 4
+};{
+  "projectId": 2,
+  "workerId": 4
+};{
+  "projectId": 3,
+  "workerId": 4
+};{
+  "projectId": 10,
+  "workerId": 4
+};{
+  "projectId": 7,
+  "workerId": 5
+};{
+  "projectId": 1,
+  "workerId": 6
+};{
+  "projectId": 9,
+  "workerId": 6
+};{
+  "projectId": 1,
+  "workerId": 7
+};{
+  "projectId": 4,
+  "workerId": 7
+};{
+  "projectId": 10,
+  "workerId": 7
+};{
+  "projectId": 8,
+  "workerId": 8
+};{
+  "projectId": 10,
+  "workerId": 8
+};{
+  "projectId": 5,
+  "workerId": 9
+};{
+  "projectId": 7,
+  "workerId": 9
+};{
+  "projectId": 8,
+  "workerId": 10
+};{
+  "projectId": 10,
+  "workerId": 10
+};{
+  "projectId": 3,
+  "workerId": 11
+};{
+  "projectId": 9,
+  "workerId": 11
+};{
+  "projectId": 10,
+  "workerId": 11
+};
